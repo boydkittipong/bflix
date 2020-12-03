@@ -1,0 +1,37 @@
+{
+"name": "ฺBflix",
+"author": "โดย_Boyd Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/03/jtkXEt.md.png",
+"url": "https://pastebin.com/BJtaUFsb",
+"groups": [
+ 
+ 
+ 
+{
+"name": "TV",
+"image": "https://sv1.picz.in.th/images/2020/12/03/jt3Uat.md.png",
+"url": "https://pastebin.com/XEfE7fR1",
+"import": false
+},
+{
+"name": "MOVIE",
+"image": "https://sv1.picz.in.th/images/2020/12/03/jt3Exl.md.png",
+"url": "https://pastebin.com/XBB7B2qw",
+"import": false
+},
+{
+"name": "SERIES",
+"image": "https://sv1.picz.in.th/images/2020/12/03/jt3Onk.md.png",
+"url": "https://pastebin.com/b76EzJYL",
+"import": false
+},
+{
+"name": "RADIO",
+"image": "https://sv1.picz.in.th/images/2020/12/03/jt35ze.md.png",
+"url": "https://pastebin.com/b76EzJYL",
+"import": false
+},
+ 
+ 
+]
+}
