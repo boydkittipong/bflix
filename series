@@ -9,7 +9,7 @@
  
 {
 "name": "The Queen's Gambit Season 1",
-"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/n0wu04x1fhw8gssc84.png",
+"image": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/thequeengambits1",
 "import": false
 },
@@ -17,6 +17,12 @@
 "name": "Voice (2018) Season 2",
 "image": "https://love-series.com/uploads/1747e1e0f6553799ed4ddec4547dbb06.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/voices2",
+"import": false
+},
+{
+"name": "Zombie Detective (ซอมบี้นักสืบ)",
+"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/zombiedetective",
 "import": false
 },
  
