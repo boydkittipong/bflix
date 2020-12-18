@@ -1,0 +1,349 @@
+{
+"name": "วิทยุออนไลน์",
+"author": "Boyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntrRn.png",
+"url": "https://pastebin.com/Xx32zmsb",
+"stations": [
+ 
+ 
+ 
+ 
+{
+"name": "COOL Fahrenheit 93 FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",
+"url": "https://coolism-web.cdn.byteark.com/;stream/1",
+"playInNatPlayer": "true"
+},
+{
+"name": "FM99 Active Radio",  
+"image": "https://www.tvjaa.com/storage/radio-channels/active99fm.png",
+"url": "https://fm99activeradio.mcot.net/live",
+"referer": "https://fm99activeradio.mcot.net/",
+"playInNatPlayer": "true"
+},
+{
+"name": "SMM96 Sport Radio",  
+"image": "https://www.tvjaa.com/storage/radio-channels/smmsportradio.png",
+"url": "https://cdn-th2.login.in.th/shoutcast/8550",
+"playInNatPlayer": "true"
+},
+{
+"name": "94EFM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/efm.png",
+"url": "https://radio.tvjaa.com/efm",
+"referer": "https://efm.atimeonline.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Green Wave 106.5 FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/greenwave.png",
+"url": "https://radio.tvjaa.com/greenwave",
+"referer": "https://greenwave.atimeonline.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "RockOnRadio Born to Rock",  
+"image": "https://www.tvjaa.com/storage/radio-channels/rockonradio.png",
+"url": "https://radio.tvjaa.com/rockon",
+"playInNatPlayer": "true"
+},
+{
+"name": "Chill Online",  
+"image": "https://www.tvjaa.com/storage/radio-channels/chillonline.png",
+"url": "https://radio.tvjaa.com/chillonline",
+"playInNatPlayer": "true"
+},
+{
+"name": "FM 96.5 คลื่นความคิด",  
+"image": "https://www.tvjaa.com/storage/radio-channels/965fm.png",
+"url": "https://thinkingradio.mcot.net/live",
+"playInNatPlayer": "true"
+},
+{
+"name": "FM95 ลูกทุ่งมหานคร",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fm95.png",
+"url": "https://radio.tvjaa.com/fm95",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mellow97.5",  
+"image": "https://www.tvjaa.com/storage/radio-channels/mellow975.png",
+"url": "https://mellow975.mcot.net/home",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "98 EDS EVERYDAY STATION",  
+"image": "https://www.tvjaa.com/storage/radio-channels/98eds.png",
+"url": "https://media.login.in.th:8443/smilehost/1290",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "City Radio Pattaya 90.25 FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/cityradio9025.png",
+"url": "https://radio.tvjaa.com/cityradio",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "HITZ 95.5",  
+"image": "https://www.tvjaa.com/storage/radio-channels/hitz955.png",
+"url": "https://radio.tvjaa.com/hitz955",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Eazy FM 105.5",  
+"image": "https://www.tvjaa.com/storage/radio-channels/eazyfm.png",
+"url": "https://radio.tvjaa.com/eazyfm",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "STAR FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/starfm.png",
+"url": "https://radio.tvjaa.com/starfm",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Tofupop Radio",  
+"image": "https://www.tvjaa.com/storage/radio-channels/tofupopradio.png",
+"url": "https://radio.tvjaa.com/tofupopradio",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "RadRadio",  
+"image": "https://www.tvjaa.com/storage/radio-channels/radradio.png",
+"url": "https://radio.tvjaa.com/radradio",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "FM ONE 103.5",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fmone1035.png",
+"url": "https://radio.tvjaa.com/fmone1035",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "103 Like FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/like103fm.png",
+"url": "https://radio.tvjaa.com/like103fm",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "มิติข่าว 90.5",  
+"image": "https://www.tvjaa.com/storage/radio-channels/smartnews905.png",
+"url": "http://www.smartbomb.co.th/streaming/audio_player.php?channel=ODYyNA==",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "MUN FM 93",  
+"image": "https://www.img.in.th/images/7ddd96e31f3b023d8adeddd074567eed.png",
+"url": "https://4018.radio2.thzhost.com/;stream.mp3",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Cat Radio แคท เรดิโอ",  
+"image": "https://www.tvjaa.com/storage/radio-channels/catradio.png",
+"url": "http://111.223.37.195/CatRadio/CatRadio-Webcam1/chunklist_w1280923328.m3u8",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "HITZ FM Exclusive FM 102.25",  
+"image": "https://www.tvjaa.com/storage/radio-channels/hitzfm.png",
+"url": "https://radio.tvjaa.com/hitzfm",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "FM 102 ขส.ทบ.",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fm102.png",
+"url": "https://cdn-th2.login.in.th/shoutcast/1100",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "The Shock 101 FM",  
+"image": "https://www.img.in.th/images/33a31f4c7aeec730f4c584f0a434b9fb.png",
+"url": "https://media.login.in.th:8443/smilehost/8135",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Huahin Radio Thailand",  
+"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ddqtw2szlcdc.png",
+"url": "https://inter1.plathong.net/7008/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "BigFM RadioSocial",  
+"image": "https://www.tvjaa.com/storage/radio-channels/bigfm.png",
+"url": "http://media.login.in.th:8195/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": " ฟังฟังฟัง เรดีโอ",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fungfungfung.png",
+"url": "http://link2.onair.network:8006/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "อิสาน เอฟ.เอ็ม.",  
+"image": "https://www.tvjaa.com/storage/radio-channels/isamfm98.png",
+"url": "http://radio11.plathong.net:8900/stream.mp3",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Sukson Radio",  
+"image": "https://www.sukson.net/sukson_logo.png",
+"url": "http://stream.pjcdn.com:9000/SongInter",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "สวพ. FM 91",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fm91.png",
+"url": "http://122.155.16.48:8955/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "วิทยุเพื่อเด็กและครอบครัว",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fm105.png",
+"url": "http://prdonline.prd.go.th:8210/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "พลอย เรดิโอ",  
+"image": "https://dbs.radioline.fr/pictures/radio_3c23ebc9dcf9a7b23ad3acbcbb74496a/logo200.jpg?size=600",
+"url": "https://radio14.plathong.net/7134/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Metro Radio 90.5 KhonKaen",  
+"image": "https://www.tvjaa.com/storage/radio-channels/metro905fm.png",
+"url": "http://radio4.thzhost.com:4114/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "ลูกทุ่งรักไทย",  
+"image": "https://www.tvjaa.com/storage/radio-channels/rukthailooktung.png",
+"url": "http://radio11.plathong.net:8896/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "ลูกทุ่งเน็ตเวิร์ก",  
+"image": "https://www.tvjaa.com/storage/radio-channels/looktungnetwork.png",
+"url": "https://media.login.in.th:8443/smilehost/8200",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "ลูกทุ่งอิงดอย",  
+"image": "https://cdn-profiles.tunein.com/s303038/images/logog.jpg?t=151620",
+"url": "http://radio14.plathong.net:7126/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "SWEET WAVE RADIO89.75จังหวัดนครราชสีมา",  
+"image": "https://www.coolzaa.com/wp-content/uploads/2018/06/sweetwave.jpg",
+"url": "https://hp2.hostpleng.cloud/8136/stream",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "BEST 106.5 HATYAI",  
+"image": "https://www.img.in.th/images/99c634bcf5a66c9b583a2704932256a2.png",
+"url": "https://80.hostpleng.com/api.php?url=http://112.121.151.133:8120/live",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "94 FM Club ฟังเมื่อไหร่...ก็ใช่",  
+"image": "https://www.tvjaa.com/storage/radio-channels/94fmclubradio.png",
+"url": "http://www.94fmclub.net/content/m3u.html",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "93MassFM สงขลา",  
+"image": "https://www.img.in.th/images/e8f8ef644e67080d0f62ebbfe86b40ee.png",
+"url": "https://www.fungplern.com/93MassFM",
+"playInNatPlayer": "true"
+},
+{
+"name": "แฟนลูกทุ่ง FM 100 MHZ สงขลา",  
+"image": "https://www.img.in.th/images/aca01fb6f2e9128529a77e93b77e62f3.png",
+"url": "https://www.fungplern.com/fanlooktong",
+"playInNatPlayer": "true"
+},
+{
+"name": "YESTERDAY 106.5 จ.ภูเก็ต",  
+"image": "https://www.img.in.th/images/28e1e79f077e9f9597705a147759c09a.png",
+"url": "https://www.fungplern.com/Yesterday-1065",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "MAZZ RADIO 97 ภูเก็ต",  
+"image": "https://www.img.in.th/images/29517da7ff39e38337248d93ae1d7f94.png",
+"url": "https://www.fungplern.com/Mazz-Radio-97",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "KISS FM 95.25 MHZ.จ.นครศรีธรรมราช",  
+"image": "https://www.img.in.th/images/c01f3b51534973a6338030b5c9a03d8f.png",
+"url": "https://www.fungplern.com/kiss-FM",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "ต้นกล้าเรดิโอFM101 จ.พัทลุง",  
+"image": "https://www.img.in.th/images/2e6d722e449bfc7ce76623b9c5f74b88.png",
+"url": "https://www.fungplern.com/tonkla-radio/popup/",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "FM94 สบายเรดิโอ เชียงใหม่",  
+"image": "https://www.img.in.th/images/12dddfc0a7569d180dec92ddd5a08af3.png",
+"url": "https://www.fungplern.com/Sabai-radio",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "บินหลาเรดิโอ99MHZ.จ.ตรัง",  
+"image": "https://www.img.in.th/images/99f8a80b9a88a88cbfa4cc73b40655be.png",
+"url": "https://www.fungplern.com/BINHLA--RADIO",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "เรดิโอแซบ FM90.75 สมุทรสาคร",  
+"image": "https://www.img.in.th/images/06ee7619a4accde0e761c94370beff8f.png",
+"url": "https://www.fungplern.com/radiozapp",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Request Radio",  
+"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wryg76p7ebax.png",
+"url": "http://27.254.142.208:8300/;",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Request Radio เพลงแดนซ์",  
+"image": "https://www.tvjaa.com/storage/radio-channels/requestdance.png",
+"url": "https://radio.tvjaa.com/requestdance",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Request Radio เพลงเพื่อชีวิต",  
+"image": "https://www.tvjaa.com/storage/radio-channels/requestlife.png",
+"url": "https://radio.tvjaa.com/requestlife",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Request Radio เพลงสตริง",  
+"image": "https://www.tvjaa.com/storage/radio-channels/request.png",
+"url": "https://radio.tvjaa.com/requestradio",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Request Radio เพลงลูกทุ่ง",  
+"image": "https://www.tvjaa.com/storage/radio-channels/requestlooktung.png",
+"url": "https://radio.tvjaa.com/requestlooktung",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Request Radio เพลงสากล",  
+"image": "https://www.tvjaa.com/storage/radio-channels/requestinter.png",
+"url": "https://radio.tvjaa.com/requestinter",
+"playInNatPlayer": "TOT"
+},
+ 
+ 
+ 
+ 
+]
+}
