@@ -1,5 +1,5 @@
 {
-"name": "ฺBflix",
+"name": "ฺB-FLIX tv",
 "author": "Boyd Kittipong",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jntGkD.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/home",
@@ -22,7 +22,7 @@
 {
 "name": "ช่องกีฬาต่างประเทศ",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jnt86g.png",
-"url": "http://tiny.cc/truesports",
+"url": "http://tiny.cc/worldsports",
 "import": false
 },
 {
