@@ -9,9 +9,15 @@
  
  
 {
-"name": "Bflix Moives",
-"image": "https://sv1.picz.in.th/images/2020/12/18/jntyxf.png",
+"name": "New Moives",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jniDru.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/bflix_moives",
+"import": false
+}, 
+{
+"name": "หนังจีน",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jniw9W.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
 {
