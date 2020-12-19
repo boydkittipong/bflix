@@ -68,6 +68,12 @@
 "import": false
 },
 {
+"name": "Cartoon",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jrSuQv.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/series",
+"import": false
+},
+{
 "name": "หนัง Blockbuster",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnMA2n.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/bflix_moives",
