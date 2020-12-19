@@ -1,0 +1,31 @@
+{
+"name": "ฺJapan movies",
+"author": "Boyd Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMj8V.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/dc",
+"stations": [
+ 
+ 
+ 
+
+
+{
+"name": "Death note 1 สมุดโน้ตกระชากวิญญาณ ภาค1 (2006)",  
+"image": "https://movie285.com/wp-content/uploads/2019/04/263.jpg",  
+"url": "https://cdn-edge2.cdn9x.xyz/fu3s906o/720p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Rurouni Kenshin 1 รูโรนิ เคนชิน ซามูไร เอ็กซ์ ภาค1 (2012)",  
+"image": "https://movie285.com/wp-content/uploads/2019/04/134.jpg",  
+"url": "https://cdn-edge2.cdn9x.xyz/i0uumqi6/720p.m3u8",
+"playInNatPlayer": "tot"
+},
+
+
+
+
+
+ 
+]
+}
