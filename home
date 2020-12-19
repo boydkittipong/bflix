@@ -44,6 +44,18 @@
 "import": false
 },
 {
+"name": "วิทยุออนไลน์",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntrRn.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
+"import": false
+},
+{
+"name": "New Movies",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntyxf.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/bflix_moives",
+"import": false
+},
+{
 "name": "Movies",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jntyxf.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/movie",
@@ -56,11 +68,86 @@
 "import": false
 },
 {
-"name": "วิทยุออนไลน์",
-"image": "https://sv1.picz.in.th/images/2020/12/18/jntrRn.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/radio",
+"name": "หนัง Blockbuster",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMA2n.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/bflix_moives",
+"import": false
+}, 
+{
+"name": "หนังไทย",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMDgS.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/thai_movies",
+"import": false
+}, 
+{
+"name": "เกาหลี",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMbqN.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนังจีน",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMo7Q.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนังญี่ปุ่น",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMj8V.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนังมาร์เวล",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMxye.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนัง ดีซี",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnM2tW.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 },
+{
+"name": "หนัง Fast & Furious",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMuG1.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนัง Jurassic World",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMrqD.th.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนัง Alien & Predator",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMCl2.th.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนัง Spider Man",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMCl2.th.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนัง X-Men",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMOBE.th.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+},
+{
+"name": "หนัง Harry Potter",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMnBy.th.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+
+
+
  
  
 ]
