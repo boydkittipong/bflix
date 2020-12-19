@@ -38,6 +38,12 @@
 "image": "https://sv1.picz.in.th/images/2020/12/19/jr0mf2.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
+},
+{
+"name": "หนังผี",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jr0FHy.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/ghost_movies",
+"import": false
 }, 
 {
 "name": "หนังแอนนิเมชั่น",
