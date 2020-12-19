@@ -14,15 +14,9 @@
 "import": false
 },
 {
-"name": "ช่องกีฬาทรูวิชั่น",
-"image": "https://sv1.picz.in.th/images/2020/12/18/jntVWW.png",
-"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/truesports",
-"import": false
-},
-{
-"name": "ช่องกีฬาต่างประเทศ",
-"image": "https://sv1.picz.in.th/images/2020/12/18/jnt86g.png",
-"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/worldsports",
+"name": "ช่องกีฬา",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jrulTg.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/sports",
 "import": false
 },
 {
