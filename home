@@ -164,6 +164,12 @@
 "import": false
 }, 
 {
+"name": "หนัง Terminator",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jrcobk.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/terminator",
+"import": false
+}, 
+{
 "name": "หนังซอมบี้",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jrz0IV.th.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
