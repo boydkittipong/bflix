@@ -52,8 +52,8 @@
 "import": false
 }, 
 {
-"name": "หนังแอนนิเมชั่น",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jr7dCJ.png",
+"name": "หนังโรแมนติก",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jr0Jog.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
@@ -65,13 +65,13 @@
 }, 
 {
 "name": "หนังดราม่า",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jnMj8V.png",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jrAJhE.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
 {
 "name": "หนังชีวิประวัติ",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jnMxye.png",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jrAawl.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
