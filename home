@@ -16,31 +16,31 @@
 {
 "name": "ช่องกีฬาทรูวิชั่น",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jntVWW.png",
-"url": "http://tiny.cc/truesports",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/truesports",
 "import": false
 },
 {
 "name": "ช่องกีฬาต่างประเทศ",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jnt86g.png",
-"url": "http://tiny.cc/worldsports",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/worldsports",
 "import": false
 },
 {
 "name": "ช่องหนัง/ซีรี่ย์",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jntaA1.png",
-"url": "http://tiny.cc/entertainment01",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/entertainment",
 "import": false
 },
 {
 "name": "ช่องสารคดี",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jntnzS.png",
-"url": "http://tiny.cc/docs01",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/documentary",
 "import": false
 },
 {
 "name": "ช่องการ์ตูน",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jntpLy.png",
-"url": "http://tiny.cc/kids01",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/cartoon",
 "import": false
 },
 {
@@ -86,7 +86,7 @@
 "import": false
 }, 
 {
-"name": "เกาหลี",
+"name": "หนังเกาหลี",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnMbqN.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
