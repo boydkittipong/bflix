@@ -145,6 +145,18 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
+{
+"name": "หนัง Pirates of the Caribbean",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMUTl.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนัง 007",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMPFg.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
 
 
 
