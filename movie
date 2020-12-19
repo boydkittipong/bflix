@@ -8,24 +8,7 @@
  
  
  
-{
-"name": "New Moives",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jniDru.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/bflix_moives",
-"import": false
-}, 
-{
-"name": "หนังจีน",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jniw9W.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
-"import": false
-}, 
-{
-"name": "หนังไทย",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jnR5gV.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/thai_movies",
-"import": false
-}, 
+
 {
 "name": "หนังไทย",
 "image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
