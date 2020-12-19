@@ -50,8 +50,8 @@
 "import": false
 },
 {
-"name": "New Movies",
-"image": "https://sv1.picz.in.th/images/2020/12/18/jntyxf.png",
+"name": "หนังใหม่",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnI3aN.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/bflix_moives",
 "import": false
 },
@@ -129,7 +129,7 @@
 }, 
 {
 "name": "หนัง Spider Man",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jnMCl2.th.png",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jnMqlk.th.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
