@@ -76,7 +76,7 @@
 {
 "name": "หนัง Blockbuster",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnMA2n.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/bflix_moives",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/%E0%B8%B4blockbuster",
 "import": false
 }, 
 {
@@ -104,15 +104,15 @@
 "import": false
 }, 
 {
-"name": "หนังมาร์เวล",
+"name": "หนัง Marvel",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnMxye.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/marvel",
 "import": false
 }, 
 {
-"name": "หนัง ดีซี",
+"name": "หนัง DC",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnM2tW.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/dc",
 "import": false
 },
 {
@@ -170,7 +170,7 @@
 "import": false
 }, 
 {
-"name": "หนังซอมบี้",
+"name": "หนัง Zombies",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jrz0IV.th.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
