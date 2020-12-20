@@ -40,21 +40,27 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล",  
+"image": "https://moviekub.com/images/movie/Bi2dem4PC3h5Gok0SfaIt2fAE8ssFjH1164.jpg",  
+"url": "https://p2p-ns1.sage.stream/hls/batman-the-dark-knight-2008/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
 "name": "The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด",  
 "image": "https://www.movie2fin.com/images/movie/swWs7ACJbnu0UgMXUE5V2vaQkcCFFOjBatman_The_Dark_Knight_Rise_(2012)ZAJc.jpg",  
-"url": "https://www426.ff-01.com/token=o5_uG2mIug0tIvUIP36ZJg/1608483263/1.0.0.0/125/8/32/aba1c8096ed7765c62a699c35b97c328-720p.mp4",
+"url": "https://p2p-ns1.sage.stream/hls/batman-the-dark-knight-rises-2012/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Batman v Superman: Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม",  
-"image": "https://www.movie2fin.com/images/movie/GCDVi9YVNc7A3tZNckmbSCHPpM3IlxIbatman-v-superman-dawn-of-justice-5780acbcc63e5.jpg",  
-"url": "https://www405.ff-01.com/token=O0rqF_ekEFkz-lz1T-HqSA/1608483402/1.0.0.0/111/1/14/b47a33fc9eeec1e82568e72c4860b141-720p.mp4",
+"image": "https://moviekub.com/images/movie/o4rUAfIV9mof7xY7mnCyWXtDl3glrVZBatman.jpg",  
+"url": "https://p2p-ns1.sage.stream/hls/batman-v-superman-dawn-of-justice-2016/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Man of Steel (2013) บุรุษเหล็กซูเปอร์แมน",
-"image": "https://www.movie2fin.com/images/movie/EVX1HZ3Q5YohNLsdrsBzZx4NXPjI5dsman-of-steel-56d33a571d783.jpg",
-"url": "https://www310.ff-01.com/token=43-MwUz9YA66E8O7fYyX0Q/1608483703/1.0.0.0/110/0/d4/2521aa16e11b2b9ca9993f3495dd6d40-720p.mp4",
+"image": "https://moviekub.com/images/movie/GFQPn8oojsAIFzR4aiJF5vFNXyLZRGXMan_of_Steel_(2013).jpg",
+"url": "https://p2p-ns1.sage.stream/hls/man-of-steel-2013/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -67,6 +73,18 @@
 "name": "Justice League จัสติซ ลีก",
 "image": "https://moviekub.com/images/movie/NwNSP1VnBI47bUMJzOa7kNCbZP23X8rJustice-League-2.jpg",
 "url": "https://p2p-ns1.sage.stream/hls/justice-league-2017/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Superman Returns (2016) ซูเปอร์แมน รีเทิร์น",
+"image": "https://moviekub.com/images/movie/530M9oes2pBlqGmE5T5J75g3PWmGbfwsuperman-returns2006.jpg",
+"url": "https://p2p-ns1.sage.stream/hls/superman-returns-2006/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Green Lantern (2011) กรีน แลนเทิร์น",
+"image": "https://moviekub.com/images/movie/sRh5r64jdbXuamjvSGyUVlHRMOg8HJQGreen_Lantern_1080p_Eng_DTS_Thai_5.1.jpg",
+"url": "https://p2p-ns1.sage.stream/hls/green-lantern-2011/index.m3u8",
 "playInNatPlayer": "tot"
 },
 
