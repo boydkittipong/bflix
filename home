@@ -112,13 +112,13 @@
 {
 "name": "หนัง Fast & Furious",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnMuG1.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/fast_and_furious",
 "import": false
 }, 
 {
 "name": "หนัง Jurassic World",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnMrqD.th.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/jurassic",
 "import": false
 }, 
 {
@@ -170,21 +170,21 @@
 "import": false
 }, 
 {
-"name": "หนัง Tranformer",
+"name": "หนัง Transformer",
 "image": "https://sv1.picz.in.th/images/2020/12/20/j8PrfR.th.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/transformers",
 "import": false
 }, 
 {
 "name": "หนัง The hobbit & The lord of the ring",
 "image": "https://sv1.picz.in.th/images/2020/12/20/j8P6G8.th.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/terminator",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/hobbit_lord_of%20_the_ring",
 "import": false
 }, 
 {
 "name": "หนัง Mission Impossible",
 "image": "https://sv1.picz.in.th/images/2020/12/20/j8Puoz.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/mission_impossible",
 "import": false
 }, 
 
