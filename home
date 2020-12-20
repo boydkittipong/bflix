@@ -169,7 +169,24 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
-
+{
+"name": "หนัง Tranformer",
+"image": "https://sv1.picz.in.th/images/2020/12/20/j8PrfR.th.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
+{
+"name": "หนัง The hobbit & The lord of the ring",
+"image": "https://sv1.picz.in.th/images/2020/12/20/j8P6G8.th.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/terminator",
+"import": false
+}, 
+{
+"name": "หนัง Mission Impossible",
+"image": "https://sv1.picz.in.th/images/2020/12/20/j8Puoz.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
+"import": false
+}, 
 
 
  
