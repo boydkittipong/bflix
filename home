@@ -20,6 +20,12 @@
 "import": false
 },
 {
+"name": "ช่องกีฬา V.2",
+"image": "https://sv1.picz.in.th/images/2020/12/22/jp4OT1.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/dooball66",
+"import": false
+},
+{
 "name": "ช่องหนัง/ซีรี่ย์",
 "image": "https://sv1.picz.in.th/images/2020/12/18/jntaA1.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/ch_movie",
@@ -125,12 +131,6 @@
 "name": "หนัง Alien & Predator",
 "image": "https://sv1.picz.in.th/images/2020/12/19/jnMCl2.th.png",
 "url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/alien_predator",
-"import": false
-}, 
-{
-"name": "หนัง Spider Man",
-"image": "https://sv1.picz.in.th/images/2020/12/19/jnMqlk.th.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/chinese_movies",
 "import": false
 }, 
 {
