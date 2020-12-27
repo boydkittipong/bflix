@@ -80,17 +80,7 @@
 "url": "https://p2p-ns1.sage.stream/hls/ajin-demi-human-2017/index.m3u8",
 "playInNatPlayer": "tot"
 },
-{
-    "name": "Ajin: Demi-Human อาจิน ฅนไม่รู้จักตาย (2017)", 
-    "file": "https://p2p-ns1.sage.stream/hls/ajin-demi-human-2017/index.m3u8",
-    "image": "https://moviekub.com/images/movie/fcVDV9kuvJSs5r43mb5MYNVCgLPkpZxajin_demi-human.jpg",
-    "width": "50%",
-    "aspectratio": "16:9",
-    "autostart": false,
-    "controls": true,
-    "preload": "metadata",
-    "primary": "html5"
-}
+
 
 
  
