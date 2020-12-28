@@ -6,7 +6,13 @@
 "groups": [
  
  
- 
+
+{
+"name": "สวีทโฮม (Sweet Home)",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/series/main/sweet_home",
+"import": false
+},
 {
 "name": "The Queen's Gambit Season 1",
 "image": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
