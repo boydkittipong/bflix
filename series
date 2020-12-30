@@ -5,7 +5,13 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/series",
 "groups": [
  
- 
+
+{
+"name": "Ju on Origins",
+"image": "https://resizing.flixster.com/rFzhw3snIvu7HYzAozcpH_jtG_w=/206x305/v1.dDs3MjU0MTI7ajsxODY4MzsxMjAwOzkwMDsxMzUw",
+"url": "https://raw.githubusercontent.com/boydkittipong/series/main/ju_on_origins",
+"import": false
+},
 {
 "name": "Chernobyl Season 1 (2019) มหันตภัยนิวเคลียร์โลกไม่ลืม",
 "image": "https://newseries-hd.com/wp-content/uploads/2020/10/chernobyl-e1602305115477.jpg",
