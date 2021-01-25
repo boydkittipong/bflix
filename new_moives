@@ -5,9 +5,44 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/new_moives",
 "stations": [
  
- 
 
 
+{
+"name": "The White Tiger พยัคฆ์ขาวรำพัน (2021)",  
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/18m3mneojqu8owko08.jpg",  
+"url": "https://www.doonung1234.com/movie/view/1752/The-White-Tiger-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B3%E0%B8%9E%E0%B8%B1%E0%B8%99-(2021)-[-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Money Plane (2020) HDTV",  
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/r1526pyxxlww008ss.jpg",  
+"url": "https://www.doonung1234.com/movie/view/1751/Money-Plane-(2020)-HDTV-[-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "The Witches แม่มด ของ โรอัลด์ ดาห์ล (2020)",  
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/118s00lat6xww0wk0g.jpg",  
+"url": "https://www.doonung1234.com/movie/view/1749/The-Witches-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%94-%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B9%82%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C%E0%B8%A5-(2020)--[-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "47 Hours (2019) HDTV",  
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2kll9rw399kw4ogoko.jpg",  
+"url": "https://www.doonung1234.com/movie/view/1748/47-Hours-(2019)-HDTV-[-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Ready or Not เกมพร้อมตาย (2019)",  
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/8srk7ke2q24og00ooo.jpeg",  
+"url": "https://www.doonung1234.com/movie/view/1746/Ready-or-Not-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2-(2019)--[-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Songbird โควิด 23 ไวรัสล้างโลก (2020)",  
+"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1bhvpbaxdocgs84ggw.jpg",  
+"url": "https://www.doonung1234.com/movie/view/1754/Songbird-%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-23-%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81-(2020)-[-%E0%B8%8A%E0%B8%B1%E0%B8%94-HD-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%82%E0%B8%A3%E0%B8%87-]",
+"playInNatPlayer": "tot"
+}, 
 {
 "name": "Legacy of Lies สมรภูมิแห่งคำลวง (2020) HDTV",  
 "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ji4h76ka8204c4o4oc.jpg",  
@@ -24,12 +59,6 @@
 "name": "The Courier (2019)",  
 "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2v3wcr3h6xkws0gggg.jpg",  
 "url": "https://www.doonung1234.com/movie/view/1684/The-Courier-(2019)-[-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]",
-"playInNatPlayer": "tot"
-}, 
-{
-"name": "Clara's Ghost (2018) HDTV",  
-"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/wetl67dlhuogwo0c0w.jpg",  
-"url": "https://www.doonung1234.com/movie/view/1710/Clara's-Ghost-(2018)-HDTV-[-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]",
 "playInNatPlayer": "tot"
 }, 
 {
