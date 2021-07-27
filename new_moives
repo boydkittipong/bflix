@@ -6,7 +6,19 @@
 "stations": [
  
  
-
+ 
+{
+"name": "Sport TV 1",  
+"image": "https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",  
+"url": "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Kingdom: Ashin of the North ผีดิบคลั่ง บัลลังก์เดือด: อาชินแห่งเผ่าเหนือ",  
+"image": "https://pbs.twimg.com/media/E6ok6uPVkAQTIRl.jpg",  
+"url": "https://www.we-play.live/watching/movie/kingdom-ashin-of-the-north-2021",
+"playInNatPlayer": "tot"
+},
 {
 "name": "Sinister Stalker สตอล์กเกอร์อุบาทว์ (2020) HDTV",  
 "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2stsajzxdeecg0gccg.jpg",  
