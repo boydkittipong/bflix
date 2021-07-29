@@ -6,7 +6,12 @@
 "stations": [
  
  
- 
+{
+"name": "Girl เกิร์ล สาวทวงแค้น",  
+"image": "https://i.imgur.com/b9OgMDn.png",  
+"url": "https://www.we-play.live/watching/movie/girl-2020",
+"playInNatPlayer": "tot"
+},  
 {
 "name": "Blood Red Sky ฟ้าสีเลือด",  
 "image": "https://we-play.live/uploads/posters/blood-red-sky-2021-poster-.jpg",  
