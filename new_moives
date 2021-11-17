@@ -5,6 +5,13 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/new_moives",
 "stations": [
  
+ 
+{
+"name": "Shang-Chi and the Legend of the Ten Rings (2021)",  
+"image": "https://i.imgur.com/SlKdTu4.jpg",  
+"url": "https://nungth.b-cdn.net/vod/disk2/snlrtio.mp4",
+"playInNatPlayer": "tot"
+},  
 {
 "name": "F9 (Fast and Furious 9 The Fast Saga) เร็ว..แรงทะลุนรก 9 (2021)",  
 "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/41la3f2qgfokckoc0.jpg",  
