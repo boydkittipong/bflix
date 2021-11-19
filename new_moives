@@ -5,7 +5,14 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/new_moives",
 "stations": [
  
- 
+
+
+{
+"name": "Jolt (2021)",  
+"image": "https://movieth999.com/images/movie/ztCssVr1PZSpqDrYFrQ8Ro1jqXQ8leB.jpg",  
+"url": "https://movieth999.com/jolt-2021",
+"playInNatPlayer": "tot"
+},  
 {
 "name": "Shang-Chi and the Legend of the Ten Rings (2021)",  
 "image": "https://i.imgur.com/SlKdTu4.jpg",  
