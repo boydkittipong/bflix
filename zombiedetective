@@ -1,156 +1,49 @@
 {
-"name": "ฺZombie Detective (ซอมบี้นักสืบ)",
+"name": "ฺHellbound ทัณฑ์นรก",
 "author": "Boyd Kittipong",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
+"image": "hhttps://s359.kapook.com/pagebuilder/b0076dfd-e489-45f1-8aa7-0544f75106ff.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/zombiedetective",
 "stations": [
  
  
  
 {
-"name": "Zombie Detective EP01",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/AzoRwL0gpt/",
+"name": "Hellbound ทัณฑ์นรก EP01",
+"image": "https://s359.kapook.com/pagebuilder/b0076dfd-e489-45f1-8aa7-0544f75106ff.jpg",
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep1",
 "import": false
 },
 {
-"name": "Zombie Detective EP02",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/xcA57Njpfl/",
+"name": "Hellbound ทัณฑ์นรก EP02",
+"image": "https://s359.kapook.com/pagebuilder/b0076dfd-e489-45f1-8aa7-0544f75106ff.jpg",
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep2",
 "import": false
 },
 {
-"name": "Zombie Detective EP03",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/fIM82QotAF/",
+"name": "Hellbound ทัณฑ์นรก EP03",
+"image": "https://s359.kapook.com/pagebuilder/b0076dfd-e489-45f1-8aa7-0544f75106ff.jpg",
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep3",
 "import": false
 },
 {
-"name": "Zombie Detective EP04",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/X4NEEPLogZ/",
+"name": "Hellbound ทัณฑ์นรก EP04",
+"image": "https://s359.kapook.com/pagebuilder/b0076dfd-e489-45f1-8aa7-0544f75106ff.jpg",
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep4",
 "import": false
 },
 {
-"name": "Zombie Detective EP05",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/i7DBhwob9s/",
+"name": "Hellbound ทัณฑ์นรก EP05",
+"image": "https://s359.kapook.com/pagebuilder/b0076dfd-e489-45f1-8aa7-0544f75106ff.jpg",
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep5",
 "import": false
 },
 {
-"name": "Zombie Detective EP06",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/rtlicAMQ0s/",
+"name": "Hellbound ทัณฑ์นรก EP06",
+"image": "https://s359.kapook.com/pagebuilder/b0076dfd-e489-45f1-8aa7-0544f75106ff.jpg",
+"url": "https://we-play.live/watching/series/hellbound-2021/season1/ep6",
 "import": false
 },
-{
-"name": "Zombie Detective EP07",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/9dWOUpV8E4/",
-"import": false
-},
-{
-"name": "Zombie Detective EP08",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/Fkh18VQ78L/",
-"import": false
-},
-{
-"name": "Zombie Detective EP09",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/KrE2ifR9Ik/",
-"import": false
-},
-{
-"name": "Zombie Detective EP710",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/wD8icoJTrp/",
-"import": false
-},
-{
-"name": "Zombie Detective EP711",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/4dtrzsjhes/",
-"import": false
-},
-{
-"name": "Zombie Detective EP712",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/VgHQCEeWeI/",
-"import": false
-},
-{
-"name": "Zombie Detective EP713",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/v05UCSi0M4/",
-"import": false
-},
-{
-"name": "Zombie Detective EP714",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/8RmyL3Om19/",
-"import": false
-},
-{
-"name": "Zombie Detective EP715",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/E46llkUa3P/",
-"import": false
-},
-{
-"name": "Zombie Detective EP716",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/fQb7UGj68G/",
-"import": false
-},
-{
-"name": "Zombie Detective EP717",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/CR1Y4WJ6J5/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Zombie Detective EP718",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/qwtwmor6kG/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Zombie Detective EP719",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/U9eFeUiYDq/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Zombie Detective EP720",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/9JSYcV2XTW/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Zombie Detective EP721",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/3geUUFBX40/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Zombie Detective EP722",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/1C1IURgOm0/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Zombie Detective EP723",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/dCL72k1avT/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Zombie Detective EP724",
-"image": "https://love-series.com/uploads/08167ced30bb4027aeab78da5a6629ec.jpg",
-"url": "https://love-series.com/watch/lJpwsnVlBf/",
-"playInNatPlayer": "tot"
-},
+
 
 
 
