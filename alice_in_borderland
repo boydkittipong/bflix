@@ -1,7 +1,7 @@
 {
-"name": "ฺSquid Game สควิดเกม เล่นลุ้นตาย",
+"name": "ฺHawkeye ฮอว์คอาย ฮีโร่ธนูพิฆาต ซีซั่น 1",
 "author": "Boyd Kittipong",
-"image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/09/Squid-Game-1-e1632030826619.jpg",
+"image": "https://i.pinimg.com/736x/84/c8/00/84c800e7dfd6b3cdf62b3716650e2afc.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/alice_in_borderland",
 "stations": [
  
@@ -9,53 +9,18 @@
  
 
 {
-"name": "Squid Game สควิดเกม เล่นลุ้นตาย พากย์ไทย Ep.1",  
-"image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/09/Squid-Game-1-e1632030826619.jpg",  
-"url": "https://xn--12ct0a9ceo5b3cxabf2byg4etc.tv/47638-2/",
+"name": "Hawkeye ฮอว์คอาย ฮีโร่ธนูพิฆาต ซีซั่น 1 Ep.1",  
+"image": "https://i.pinimg.com/736x/84/c8/00/84c800e7dfd6b3cdf62b3716650e2afc.jpg",  
+"url": "https://we-play.live/watching/series/hawkeye-thai-dub-2021/season1/ep1",
 "playInNatPlayer": "tot"
 },
 {
-"name": "Squid Game สควิดเกม เล่นลุ้นตาย พากย์ไทย Ep.6",  
-"image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/09/Squid-Game-1-e1632030826619.jpg",  
-"url": "https://xn--12ct0a9ceo5b3cxabf2byg4etc.tv/47646-2/",
+"name": "Hawkeye ฮอว์คอาย ฮีโร่ธนูพิฆาต ซีซั่น 1 Ep.2",  
+"image": "https://i.pinimg.com/736x/84/c8/00/84c800e7dfd6b3cdf62b3716650e2afc.jpg",  
+"url": "https://we-play.live/watching/series/hawkeye-thai-dub-2021/season1/ep2",
 "playInNatPlayer": "tot"
 },
-{
-"name": "Squid Game สควิดเกม เล่นลุ้นตาย พากย์ไทย Ep.7",  
-"image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/09/Squid-Game-1-e1632030826619.jpg",  
-"url": "https://xn--12ct0a9ceo5b3cxabf2byg4etc.tv/47648-2/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Squid Game สควิดเกม เล่นลุ้นตาย พากย์ไทย Ep.8",  
-"image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/09/Squid-Game-1-e1632030826619.jpg",  
-"url": "https://xn--12ct0a9ceo5b3cxabf2byg4etc.tv/47647-2/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Squid Game สควิดเกม เล่นลุ้นตาย พากย์ไทย Ep.9 จบ",  
-"image": "https://ดูซีรี่ย์เกาหลี.tv/wp-content/uploads/2021/09/Squid-Game-1-e1632030826619.jpg",  
-"url": "https://xn--12ct0a9ceo5b3cxabf2byg4etc.tv/47649-2/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "The Last Kingdom Season 1 EP 01",  
-"image": "https://kkkmovies.com/wp-content/uploads/2010/10/The-Last-Kingdom-Season-1-2015-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%94%E0%B8%AD%E0%B8%A1-%E0%B8%9B%E0%B8%B5-1-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-EP-01.jpg",  
-"url": "https://hls1.kinzar.com/media/FnINg4soqDKMVHO/720p.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Breaking Bad SS1 EP1",  
-"image": "https://kkkmovies.com/wp-content/uploads/2020/05/Breaking-Bad-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%99-%E0%B8%84%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%95%E0%B8%81-ss-1.jpg",  
-"url": "https://hls1.kinzar.com/media/FnINg4soqDKMVHO/720p.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Alice in Borderland EP08",  
-"image": "https://love-series.com/uploads/90ffcdf361951fe2086be060d80c85f8.jpg",  
-"url": "https://love-series.com/watch/VfpGRAHMnQ/",
-"playInNatPlayer": "tot"
-},
+
 
 
 
