@@ -7,7 +7,12 @@
  
 
 
-
+{
+"name": "Kingsglaive Final Fantasy XV (2016)",  
+"image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d7232c041fcc9b0d8ad60ecd8753a9880d3613d16c4e3346764d66cb3de8e990._RI_V_TTW_.jpg",  
+"url": "https://cdn.badroids.is/vod/disk3/movies/kgavff.mp4",
+"playInNatPlayer": "tot"
+},
 {
 "name": "Free Guy",  
 "image": "https://we-play.live/uploads/posters/free-guy-2021-poster-.jpg",  
