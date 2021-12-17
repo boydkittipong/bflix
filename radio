@@ -120,6 +120,12 @@
 "playInNatPlayer": "TOT"
 },
 {
+"name": "MUSICBOX MAXIMUM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/musicbox.png",
+"url": "https://radio.tvjaa.com/maximummusicbox",
+"playInNatPlayer": "TOT"
+},
+{
 "name": "FM ONE 103.5",  
 "image": "https://www.tvjaa.com/storage/radio-channels/fmone1035.png",
 "url": "https://radio.tvjaa.com/fmone1035",
@@ -150,9 +156,33 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "HITZ FM Exclusive FM 102.25",  
-"image": "https://www.tvjaa.com/storage/radio-channels/hitzfm.png",
-"url": "https://radio.tvjaa.com/hitzfm",
+"name": "FAT93 RADIO",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fat93radio.png",
+"url": "https://radio.tvjaa.com/fat93fm",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Modern 98.75",  
+"image": "https://www.tvjaa.com/storage/radio-channels/modern9875.png",
+"url": "https://radio.tvjaa.com/modern9875",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "FRIEND FM 102.5",  
+"image": "https://www.tvjaa.com/storage/radio-channels/friend1025.png",
+"url": "https://radio.tvjaa.com/friend1025",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "curadio.chula",  
+"image": "https://www.tvjaa.com/storage/radio-channels/curadio.png",
+"url": "https://curadio.chula.ac.th/Radio-Live.php",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Phuket Live Radio 89.5",  
+"image": "https://www.tvjaa.com/storage/radio-channels/895pattaya.png",
+"url": "https://radio.tvjaa.com/895pattaya",
 "playInNatPlayer": "TOT"
 },
 {
@@ -240,9 +270,9 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "BEST 106.5 HATYAI",  
-"image": "https://www.img.in.th/images/99c634bcf5a66c9b583a2704932256a2.png",
-"url": "https://80.hostpleng.com/api.php?url=http://112.121.151.133:8120/live",
+"name": "Chiang Mai Radio FM 93.75",  
+"image": "https://www.tvjaa.com/storage/radio-channels/chiangmairadio.png",
+"url": "https://radio.tvjaa.com/chiangmairadio",
 "playInNatPlayer": "TOT"
 },
 {
@@ -264,9 +294,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "YESTERDAY 106.5 จ.ภูเก็ต",  
-"image": "https://www.img.in.th/images/28e1e79f077e9f9597705a147759c09a.png",
-"url": "https://www.fungplern.com/Yesterday-1065",
+"name": "GREAT 93",  
+"image": "https://www.tvjaa.com/storage/radio-channels/great93fm.png",
+"url": "https://radio.tvjaa.com/great93",
 "playInNatPlayer": "TOT"
 },
 {
@@ -300,9 +330,9 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "เรดิโอแซบ FM90.75 สมุทรสาคร",  
-"image": "https://www.img.in.th/images/06ee7619a4accde0e761c94370beff8f.png",
-"url": "https://www.fungplern.com/radiozapp",
+"name": "IRC Radio",  
+"image": "https://www.tvjaa.com/storage/radio-channels/ircradio.png",
+"url": "https://radio.tvjaa.com/ircradio",
 "playInNatPlayer": "TOT"
 },
 {
