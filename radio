@@ -66,6 +66,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "STAR FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/starfm.png",
+"url": "https://radio.tvjaa.com/starfm",
+"playInNatPlayer": "TOT"
+},
+{
 "name": "Mellow97.5",  
 "image": "https://www.tvjaa.com/storage/radio-channels/mellow975.png",
 "url": "https://mellow975.mcot.net/home",
@@ -186,12 +192,6 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "Sukson Radio",  
-"image": "https://www.sukson.net/sukson_logo.png",
-"url": "http://stream.pjcdn.com:9000/SongInter",
-"playInNatPlayer": "TOT"
-},
-{
 "name": "สวพ. FM 91",  
 "image": "https://www.tvjaa.com/storage/radio-channels/fm91.png",
 "url": "http://122.155.16.48:8955/;",
@@ -235,7 +235,7 @@
 },
 {
 "name": "SWEET WAVE RADIO89.75จังหวัดนครราชสีมา",  
-"image": "https://www.coolzaa.com/wp-content/uploads/2018/06/sweetwave.jpg",
+"image": "https://www.coolzaa.com/wp-content/uploads/2020/11/sweet-wave-radio.png",
 "url": "https://hp2.hostpleng.cloud/8136/stream",
 "playInNatPlayer": "TOT"
 },
