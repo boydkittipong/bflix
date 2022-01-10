@@ -6,7 +6,12 @@
 "stations": [
 
 
-
+{
+"name": "No Time To Die (2021)",  
+"image": "https://www.img10.xyz/assets/movie_poster/e/e7d325368705b3b50c0b6bedf79ea649.jpg",  
+"url": "https://server3.oneplayer.online/hls/hXcYd1u/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
 {
 "name": "Spider Man No Way Home (2021)",  
 "image": "https://369movies.com/wp-content/uploads/2022/01/Spider-Man-No-Way-Home-scaled.jpg",  
