@@ -6,6 +6,25 @@
 "stations": [
 
 
+
+{
+"name": "The Privilege เดอะ พริวิเลจ",  
+"image": "https://static.wikia.nocookie.net/dubbing9585/images/1/1d/The_Privilege_Cover.jpg/revision/latest?cb=20220130172633",  
+"url": "https://we-play.live/watching/movie/the-privilege-2022",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Misfits พยัคฆ์ทรชน ปล้นพลิกโลก",  
+"image": "https://doonungth.com/images/movie/haMy71Tg143e5k5uwgCAeZEdWFgz2hP.jpg",  
+"url": "https://we-play.live/watching/movie/the-misfits-2021",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Love and Leashes รักจูงรัก",  
+"image": "https://www.seoul2me.com/wp-content/uploads/2022/01/7a020ff0-d04b-4232-bf02-52fcbd30967e.jpg",  
+"url": "https://we-play.live/watching/movie/love-and-leashes-2022",
+"playInNatPlayer": "tot"
+},
 {
 "name": "Raging Fire โคตรเดือดฉะเดือด",  
 "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/5afprzcia0gsgo0s0o.jpg",  
