@@ -6,7 +6,12 @@
 "groups": [
  
 
-
+{
+"name": "My Roommate Is a Gumiho",
+"image": "https://s359.kapook.com/pagebuilder/9ba7ec57-c9ee-44ae-9a70-6b6dd3cd0e4b.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/series/main/MyRoommateIsaGumiho",
+"import": false
+},
 {
 "name": "Kotaro Lives Alone โคทาโร่อยู่คนเดียว",
 "image": "https://pics.filmaffinity.com/Kotaro_Lives_Alone_TV_Series-939963352-mmed.jpg",
