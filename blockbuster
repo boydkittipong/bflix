@@ -5,7 +5,56 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/blockbuster",
 "stations": [
  
- 
+
+
+{
+"name": "",
+"image": "",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "",
+"image": "",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "",
+"image": "",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "",
+"image": "",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "",
+"image": "",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "",
+"image": "",
+"url": "",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Snow White and The Huntsman",
+"image": "https://movie285.com/wp-content/uploads/2021/03/mpic11.jpg",
+"url": "https://proxy1-cdn4.cdn9x.com/gq8m18c1/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Dune",
+"image": "https://movie285.com/wp-content/uploads/2021/12/1-2353.jpg",
+"url": "https://proxy3-cdn5.cdn9x.com/h2vc3fqc/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
 {
 "name": "The Revenant",
 "image": "https://movie285.com/wp-content/uploads/2019/07/981.jpg",
