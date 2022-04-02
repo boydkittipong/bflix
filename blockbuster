@@ -8,6 +8,12 @@
 
 
 {
+"name": "Lucy",
+"image": "https://movie285.com/wp-content/uploads/2019/06/518.jpg",
+"url": "https://proxy1-cdn3.cdn9x.com/iu3bapcs/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
 "name": "The Last Samurai",
 "image": "https://movie285.com/wp-content/uploads/2019/08/1205.jpg",
 "url": "https://proxy2-cdn2.cdn9x.com/kg7bio4k/1080p.m3u8",
@@ -230,9 +236,147 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "",
-"image": "",
-"url": "",
+"name": "Apocalypto",
+"image": "https://movie285.com/wp-content/uploads/2019/06/655.jpg",
+"url": "https://proxy1-cdn2.cdn9x.com/4evv147v/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Robin Hood",
+"image": "https://movie285.com/wp-content/uploads/2019/06/768.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/2s9es4ve/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Kingdom",
+"image": "https://movie285.com/wp-content/uploads/2019/07/843.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/gcnetfpt/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Island",
+"image": "https://movie285.com/wp-content/uploads/2019/06/808.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/6g2p7jup/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TRON 2: Legacy",
+"image": "https://movie285.com/wp-content/uploads/2019/07/920.jpg",
+"url": "https://proxy1-cdn2.cdn9x.com/40h9aq4v/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peppermint",
+"image": "https://movie285.com/wp-content/uploads/2019/07/915.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/t58b8l5e/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Cave",
+"image": "https://movie285.com/wp-content/uploads/2019/07/912.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/li1h4hr/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Divergent",
+"image": "https://movie285.com/wp-content/uploads/2019/07/862.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/6f9helio/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Insurgent",
+"image": "https://movie285.com/wp-content/uploads/2019/07/861.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/h62rg5fl/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Allegiant",
+"image": "https://movie285.com/wp-content/uploads/2019/07/860.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/hkn8bhfl/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "American Ultra",
+"image": "https://movie285.com/wp-content/uploads/2019/07/1032.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/c66i6s1c/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Prince of Persia: The Sands of Time",
+"image": "https://movie285.com/wp-content/uploads/2019/07/1005.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/d67q4714/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Teenage Mutant Ninja Turtles 1",
+"image": "https://movie285.com/wp-content/uploads/2019/07/1085.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/4pvvm1nl/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Italian Job",
+"image": "https://movie285.com/wp-content/uploads/2019/07/1132.jpg",
+"url": "https://proxy1-cdn2.cdn9x.com/j8hpaqvd/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Elysium",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1224.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/6sa5olf1/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "American Sniper",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1284.jpg",
+"url": "https://proxy1-cdn2.cdn9x.com/8ve1252a/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Into The Storm",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1273.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/00toffhe/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Daylight",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1270.jpg",
+"url": "https://proxy1-cdn2.cdn9x.com/akkv82ik/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Ready Player One",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1268.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/7j423iib/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Foreigner",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1262.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/rtigt37/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Death Wish",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1261.jpg",
+"url": "https://proxy2-cdn2.cdn9x.com/8h5vfh08/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "In Time",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1390.jpg",
+"url": "https://proxy2-cdn1.cdn9x.com/2agl8srr/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Tournament",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1356.jpg",
+"url": "https://proxy2-cdn1.cdn9x.com/09l65dkc/1080p.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Inception",
+"image": "https://movie285.com/wp-content/uploads/2019/08/1342.jpg",
+"url": "https://proxy2-cdn1.cdn9x.com/s95vi73c/1080p.m3u8",
 "playInNatPlayer": "tot"
 },
 {
