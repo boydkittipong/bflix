@@ -6,8 +6,25 @@
 "stations": [
  
  
- 
- 
+
+{
+"name": "White POP",  
+"image": "https://www.tvjaa.com/storage/radio-channels/whitepop.png",
+"url": "https://radio.tvjaa.com/White%20POP",
+"playInNatPlayer": "true"
+},
+{
+"name": "CASSETTE : Good young days",  
+"image": "https://www.tvjaa.com/storage/radio-channels/caste.png",
+"url": "https://radio.tvjaa.com/cassette",
+"playInNatPlayer": "true"
+},
+{
+"name": "HOTWAVE Live And Rock",  
+"image": "https://www.tvjaa.com/storage/radio-channels/hotwave.png",
+"url": "https://radio.tvjaa.com/hotwave",
+"playInNatPlayer": "true"
+},
 {
 "name": "COOL Fahrenheit 93 FM",  
 "image": "https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",
@@ -371,8 +388,18 @@
 "url": "https://radio.tvjaa.com/requestinter",
 "playInNatPlayer": "TOT"
 },
- 
- 
+{
+"name": "MUSICHITz เพลงลูกทุ่ง เพื่อชีวิต",  
+"image": "https://www.tvjaa.com/storage/radio-channels/musichitzlife.png",
+"url": "https://radio.tvjaa.com/musichitzlife",
+"playInNatPlayer": "TOT"
+}, 
+{
+"name": "ONDIO เพลงไทยสากลเก่า",  
+"image": "https://www.tvjaa.com/storage/radio-channels/ondiothaiold.png",
+"url": "https://radio.tvjaa.com/ondiothaiold",
+"playInNatPlayer": "TOT"
+},  
  
  
 ]
