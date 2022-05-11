@@ -8,7 +8,13 @@
 
 
 {
-"name": "Wind River (2017) ล่าเดือด เลือดเย็น พากย์ไทย",  
+"name": "Yesterday (2019) เยสเตอร์เดย์",  
+"image": "https://zeanmoviehd.com/wp-content/uploads/2020/06/yesterday-2019.jpg",  
+"url": "https://hls1.hls24hr.xyz/hls/51HsV8L/file_720.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Wind River (2017) ล่าเดือด เลือดเย็น",  
 "image": "https://zeanmoviehd.com/wp-content/uploads/2020/06/wind-river-2017.jpg",  
 "url": "https://hls1.hls24hr.xyz/hls/GXqaMeo/file_720.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
