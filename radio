@@ -198,7 +198,7 @@
 {
 "name": "MUN FM 93",  
 "image": "https://www.img.in.th/images/7ddd96e31f3b023d8adeddd074567eed.png",
-"url": "https://4018.radio2.thzhost.com/;stream.mp3",
+"url": "https://radio.tvjaa.com/munfm",
 "playInNatPlayer": "TOT"
 },
 {
@@ -271,18 +271,6 @@
 "name": "อิสาน เอฟ.เอ็ม.",  
 "image": "https://www.tvjaa.com/storage/radio-channels/isamfm98.png",
 "url": "http://radio11.plathong.net:8900/stream.mp3",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "สวพ. FM 91",  
-"image": "https://www.tvjaa.com/storage/radio-channels/fm91.png",
-"url": "http://122.155.16.48:8955/;",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "วิทยุเพื่อเด็กและครอบครัว",  
-"image": "https://www.tvjaa.com/storage/radio-channels/fm105.png",
-"url": "http://prdonline.prd.go.th:8210/;",
 "playInNatPlayer": "TOT"
 },
 {
