@@ -59,12 +59,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "RockOnRadio Born to Rock",  
-"image": "https://www.tvjaa.com/storage/radio-channels/rockonradio.png",
-"url": "https://radio.tvjaa.com/rockon",
-"playInNatPlayer": "true"
-},
-{
 "name": "Chill Online",  
 "image": "https://www.tvjaa.com/storage/radio-channels/chillonline.png",
 "url": "https://radio.tvjaa.com/chillonline",
@@ -77,16 +71,16 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "MCOT News Network",  
+"image": "https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png",
+"url": "https://radio.tvjaa.com/mcotfm1005",
+"playInNatPlayer": "true"
+},
+{
 "name": "FM95 ลูกทุ่งมหานคร",  
 "image": "https://www.tvjaa.com/storage/radio-channels/fm95.png",
 "url": "https://radio.tvjaa.com/fm95",
 "playInNatPlayer": "true"
-},
-{
-"name": "STAR FM",  
-"image": "https://www.tvjaa.com/storage/radio-channels/starfm.png",
-"url": "https://radio.tvjaa.com/starfm",
-"playInNatPlayer": "TOT"
 },
 {
 "name": "Mellow97.5",  
@@ -95,15 +89,9 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "98 EDS EVERYDAY STATION",  
-"image": "https://www.tvjaa.com/storage/radio-channels/98eds.png",
-"url": "https://media.login.in.th:8443/smilehost/1290",
-"playInNatPlayer": "TOT"
-},
-{
 "name": "City Radio Pattaya 90.25 FM",  
 "image": "https://www.tvjaa.com/storage/radio-channels/cityradio9025.png",
-"url": "https://radio.tvjaa.com/cityradio",
+"url": "https://plus.onair.network/radio/8020/ctmobile.mp3",
 "playInNatPlayer": "TOT"
 },
 {
@@ -133,7 +121,7 @@
 {
 "name": "RadRadio",  
 "image": "https://www.tvjaa.com/storage/radio-channels/radradio.png",
-"url": "https://radio.tvjaa.com/radradio",
+"url": "https://24863.live.streamtheworld.com/RAD_RADIO_FMAAC_128.aac?dist=TRITON-WEB&dob=&gender=&ttag=work%3A&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=6b97baae-d073-4055-f385-fb6708fec472",
 "playInNatPlayer": "TOT"
 },
 {
