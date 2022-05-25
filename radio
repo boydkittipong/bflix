@@ -197,8 +197,14 @@
 },
 {
 "name": "MUN FM 93",  
-"image": "https://www.img.in.th/images/7ddd96e31f3b023d8adeddd074567eed.png",
+"image": "https://www.tvjaa.com/storage/radio-channels/munforward.png",
 "url": "https://radio.tvjaa.com/munfm",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Sunshine Radio Pattaya 107.75MHz Good life good music",  
+"image": "https://www.tvjaa.com/storage/radio-channels/sunshine.png",
+"url": "https://radio.tvjaa.com/sunshine",
 "playInNatPlayer": "TOT"
 },
 {
