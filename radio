@@ -125,6 +125,12 @@
 "playInNatPlayer": "TOT"
 },
 {
+"name": "RadRadio",  
+"image": "https://www.tvjaa.com/storage/radio-channels/radradio.png",
+"url": "https://24863.live.streamtheworld.com/RAD_RADIO_FMAAC_128.aac",
+"playInNatPlayer": "TOT"
+},
+{
 "name": "MUSICBOX MAXIMUM",  
 "image": "https://www.tvjaa.com/storage/radio-channels/musicbox.png",
 "url": "https://radio.tvjaa.com/maximummusicbox",
