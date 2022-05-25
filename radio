@@ -6,7 +6,12 @@
 "stations": [
  
  
-
+{
+"name": "COOL Fahrenheit 93 FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",
+"url": "https://coolism-web.cdn.byteark.com/;stream/1",
+"playInNatPlayer": "true"
+},
 {
 "name": "White POP",  
 "image": "https://www.tvjaa.com/storage/radio-channels/whitepop.png",
@@ -26,9 +31,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "COOL Fahrenheit 93 FM",  
-"image": "https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",
-"url": "https://coolism-web.cdn.byteark.com/;stream/1",
+"name": "MET 107 FM",  
+"image": "https://www.tvjaa.com/storage/radio-channels/met107.png",
+"url": "https://radio.tvjaa.com/met107",
 "playInNatPlayer": "true"
 },
 {
@@ -97,31 +102,31 @@
 {
 "name": "HITZ 95.5",  
 "image": "https://www.tvjaa.com/storage/radio-channels/hitz955.png",
-"url": "https://radio.tvjaa.com/hitz955",
+"url": "https://18313.live.streamtheworld.com/HITZ_955AAC_128.aac",
 "playInNatPlayer": "TOT"
 },
 {
 "name": "Eazy FM 105.5",  
 "image": "https://www.tvjaa.com/storage/radio-channels/eazyfm.png",
-"url": "https://radio.tvjaa.com/eazyfm",
+"url": "https://24863.live.streamtheworld.com/EAZYFM_1055AAC.aac",
 "playInNatPlayer": "TOT"
 },
 {
 "name": "STAR FM",  
 "image": "https://www.tvjaa.com/storage/radio-channels/starfm.png",
-"url": "https://radio.tvjaa.com/starfm",
+"url": "https://18313.live.streamtheworld.com/STARFM_THAAC.aac",
 "playInNatPlayer": "TOT"
 },
 {
 "name": "Tofupop Radio",  
 "image": "https://www.tvjaa.com/storage/radio-channels/tofupopradio.png",
-"url": "https://radio.tvjaa.com/tofupopradio",
+"url": "https://24863.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac",
 "playInNatPlayer": "TOT"
 },
 {
-"name": "RadRadio",  
-"image": "https://www.tvjaa.com/storage/radio-channels/radradio.png",
-"url": "https://24863.live.streamtheworld.com/RAD_RADIO_FMAAC_128.aac?dist=TRITON-WEB&dob=&gender=&ttag=work%3A&gdpr=876&gdpr_consent=GDPRCONSENTSTRING&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=6b97baae-d073-4055-f385-fb6708fec472",
+"name": "RockOnRadio Born to Rock",  
+"image": "https://www.tvjaa.com/storage/radio-channels/rockonradio.png",
+"url": "https://24863.live.streamtheworld.com/ROCK_ON_RADIOAAC.aac",
 "playInNatPlayer": "TOT"
 },
 {
@@ -143,15 +148,57 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "103 Like FM",  
-"image": "https://www.tvjaa.com/storage/radio-channels/like103fm.png",
-"url": "https://radio.tvjaa.com/like103fm",
-"playInNatPlayer": "TOT"
-},
-{
 "name": "มิติข่าว 90.5",  
 "image": "https://www.tvjaa.com/storage/radio-channels/smartnews905.png",
 "url": "http://www.smartbomb.co.th/streaming/audio_player.php?channel=ODYyNA==",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "จส.100",  
+"image": "https://www.tvjaa.com/storage/radio-channels/js100.png",
+"url": "https://radio.tvjaa.com/js100",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "ครอบครัวข่าว 106",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fm106family.png",
+"url": "http://radio12.plathong.net:8648/;stream.mp3",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "สวพ. FM 91",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fm91.png",
+"url": "https://radio.tvjaa.com/fm91",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "วิทยุฯเพื่อเด็ก เยาวชน และครอบครัว",  
+"image": "https://www.tvjaa.com/storage/radio-channels/fm105.png",
+"url": "http://prdonline.prd.go.th:8210/;stream.mp3",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Live Radio FM 88 MHz",  
+"image": "http://www.e4thai.com/e4e/images/photo3/Radio%20Online%20%20%20FM%2088%20MHz.png",
+"url": "http://prdonline.prd.go.th:8200/;stream.mp3",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Quality News Station สวท.FM 97 MHz",  
+"image": "https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png",
+"url": "https://radio.tvjaa.com/qualitynewsstation",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "IRC Radio",  
+"image": "https://www.tvjaa.com/storage/radio-channels/ircradio.png",
+"url": "https://radio.tvjaa.com/ircradio",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Sunshine Radio Pattaya 107.75MHz Good life good music",  
+"image": "https://www.tvjaa.com/storage/radio-channels/sunshine.png",
+"url": "https://djstreamsv1.hostpleng.cloud/CYO3",
 "playInNatPlayer": "TOT"
 },
 {
