@@ -447,6 +447,12 @@
 "url": "https://radio10.plathong.net/7590/;stream.mp3",
 "playInNatPlayer": "TOT"
 }, 
- 
+{
+"name": "Ondio เพลงเก่า",  
+"image": "https://admin.auto-messenger.ru/storage/radios/16084/30381/conversions/OPeI55LOAeKsGnCaeRn3kG6JBS4wy7-metab25kaW5vIG9sZC5wbmc=--lg.webp",
+"url": "https://vobook.ru/http://112.121.150.133:8022/stream",
+"playInNatPlayer": "TOT"
+},
+
 ]
 }
