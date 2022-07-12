@@ -430,12 +430,18 @@
 "playInNatPlayer": "TOT"
 },  
 {
-"name": "Samui Green Station",  
-"image": "https://samuigreenstation.net/wp-content/uploads/2022/04/default_optimized.png",
+"name": "musichitz looktung",  
+"image": "https://i.imgur.com/7CP3xmq.png",
 "url": "http://112.121.150.133:9386/live",
 "playInNatPlayer": "TOT"
 },   
- 
+{
+"name": "สมาร์ท เรดิโอ สงขลา",  
+"image": "https://admin.auto-messenger.ru/storage/radios/16565/33222/conversions/m2ANCscW9ELGShzFHpz8pYFb0uNRsK-metaU21hcnQgUmFkaW8gOTQuMjUucG5n--lg.webp",
+"url": "http://112.121.150.133:9030/live",
+"playInNatPlayer": "TOT"
+}, 
+
  
 ]
 }
