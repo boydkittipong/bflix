@@ -441,7 +441,12 @@
 "url": "http://112.121.150.133:9030/live",
 "playInNatPlayer": "TOT"
 }, 
-
+{
+"name": "Hatyai Radio",  
+"image": "https://admin.auto-messenger.ru/storage/radios/16748/33901/conversions/ykN4Qj31C30mS9GjjhPF9Cfp1Dbq4P-metaRk0gSGF0eWFpLmpwZw==--lg.webp",
+"url": "https://radio10.plathong.net/7590/;stream.mp3",
+"playInNatPlayer": "TOT"
+}, 
  
 ]
 }
