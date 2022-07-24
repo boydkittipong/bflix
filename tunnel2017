@@ -1,112 +1,232 @@
 {
-"name": "ฺJirisan (พากย์ไทย) - ซีซั่น 1",
-"author": "Boyd Kittipong",
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",
-"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/tunnel2017",
-"stations": [
+"name": "Kimetsu no Yaiba ดาบพิฆาตอสูร ภาค 1",
+"image": "https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+"url": "https://pastebin.com/HjgLb4Kc",
+"stations" : [
  
  
  
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP1",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep1",
-"playInNatPlayer": "tot"
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 1",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP01.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
 },
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP2",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep2",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP3",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep3",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP4",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep4",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP5",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep5",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP6",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep6",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP7",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep7",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP8",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP9",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep9",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP10",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep10",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP11",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep11",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP12",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep12",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP13",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep13",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP14",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep14",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP15",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep15",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Jirisan (พากย์ไทย) - ซีซั่น 1 EP16",  
-"image": "https://d3avoj45mekucs.cloudfront.net/astrogempak/media/badrul-hashim/2019/jun/bbbdramalina/jun-ji-hyun.jpeg",  
-"url": "https://we-play.live/watching/series/jirisan-thai-dub-2021/season1/ep16",
-"playInNatPlayer": "tot"
-},
-
-
-
-
  
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 2",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP02.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 3",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP03.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 4",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP04.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 5",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP05.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 6",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP06.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 7",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP07.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 8",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP08.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 9",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP09.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 10",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP10.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 11",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP11.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 12",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP12.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 13",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP13.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 14",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP14.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 15",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP15.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 16",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP16.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 17",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP17.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 18",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP18.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 19",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP19.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 20",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP20.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 21",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP21.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 22",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP22.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 23",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP23.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 24",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP24.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 25",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP25.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Kimetsu no Yaiba ดาบพิฆาตอสูร(ภาค 1) ตอนที่ 26",
+image:"https://animekimi.com/wp-content/uploads/2020/01/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg",
+url:"https://cdn.kodflix.com/anime64/12December/KimetsunoYaibaMugenResshahenTVTHAIEP26.mp4",
+"referer": "https://cdn.kodflix.com/",
+"playInNatPlayer": "true"
+},
 ]
-}
+}​
