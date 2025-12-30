@@ -47,6 +47,24 @@
 "playInNatPlayer": "TOT"
 },
 {
+"name": "Smile Radio FM 95.25",  
+"image": "https://www.tvjaa.com/storage/radio-channels/smile9525.png",
+"url": "https://radio.tvjaa.com/smile9525",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "Smile Radio FM 101 สไมล์ลูกทุ่ง",  
+"image": "https://static-media.streema.com/media/cache/3b/4a/3b4a8652f70b606cfb5f82b6bd7e7653.jpg",
+"url": "https://radio.tvjaa.com/smile101",
+"playInNatPlayer": "TOT"
+},
+{
+"name": "เดอะช็อค The Shock 101",  
+"image": "https://static.mytuner.mobi/media/tvos_radios/32nfvg7pxmdt.png",
+"url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+"playInNatPlayer": "TOT"
+},
+{
 "name": "มิติข่าว 90.5",  
 "image": "https://www.tvjaa.com/storage/radio-channels/smartnews905.png",
 "url": "http://www.smartbomb.co.th/streaming/audio_player.php?channel=ODYyNA==",
