@@ -13,30 +13,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "White POP",  
-"image": "https://www.tvjaa.com/storage/radio-channels/whitepop.png",
-"url": "https://radio.tvjaa.com/White%20POP",
-"playInNatPlayer": "true"
-},
-{
-"name": "CASSETTE : Good young days",  
-"image": "https://www.tvjaa.com/storage/radio-channels/caste.png",
-"url": "https://radio.tvjaa.com/cassette",
-"playInNatPlayer": "true"
-},
-{
-"name": "HOTWAVE Live And Rock",  
-"image": "https://www.tvjaa.com/storage/radio-channels/hotwave.png",
-"url": "https://radio.tvjaa.com/hotwave",
-"playInNatPlayer": "true"
-},
-{
-"name": "MET 107 FM",  
-"image": "https://www.tvjaa.com/storage/radio-channels/met107.png",
-"url": "https://radio.tvjaa.com/met107",
-"playInNatPlayer": "true"
-},
-{
 "name": "FM99 Active Radio",  
 "image": "https://www.tvjaa.com/storage/radio-channels/active99fm.png",
 "url": "https://fm99activeradio.mcot.net/live",
@@ -64,87 +40,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Chill Online",  
-"image": "https://www.tvjaa.com/storage/radio-channels/chillonline.png",
-"url": "https://radio.tvjaa.com/chillonline",
-"playInNatPlayer": "true"
-},
-{
-"name": "FM 96.5 คลื่นความคิด",  
-"image": "https://www.tvjaa.com/storage/radio-channels/965fm.png",
-"url": "https://thinkingradio.mcot.net/live",
-"playInNatPlayer": "true"
-},
-{
-"name": "MCOT News Network",  
-"image": "https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png",
-"url": "https://radio.tvjaa.com/mcotfm1005",
-"playInNatPlayer": "true"
-},
-{
-"name": "FM95 ลูกทุ่งมหานคร",  
-"image": "https://www.tvjaa.com/storage/radio-channels/fm95.png",
-"url": "https://radio.tvjaa.com/fm95",
-"playInNatPlayer": "true"
-},
-{
 "name": "Mellow97.5",  
 "image": "https://www.tvjaa.com/storage/radio-channels/mellow975.png",
 "url": "https://mellow975.mcot.net/home",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "City Radio Pattaya 90.25 FM",  
-"image": "https://www.tvjaa.com/storage/radio-channels/cityradio9025.png",
-"url": "https://plus.onair.network/radio/8020/ctmobile.mp3",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "HITZ 95.5",  
-"image": "https://www.tvjaa.com/storage/radio-channels/hitz955.png",
-"url": "https://18313.live.streamtheworld.com/HITZ_955AAC_128.aac",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "Eazy FM 105.5",  
-"image": "https://www.tvjaa.com/storage/radio-channels/eazyfm.png",
-"url": "https://24863.live.streamtheworld.com/EAZYFM_1055AAC.aac",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "STAR FM",  
-"image": "https://www.tvjaa.com/storage/radio-channels/starfm.png",
-"url": "https://18313.live.streamtheworld.com/STARFM_THAAC.aac",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "Tofupop Radio",  
-"image": "https://www.tvjaa.com/storage/radio-channels/tofupopradio.png",
-"url": "https://24863.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "RockOnRadio Born to Rock",  
-"image": "https://www.tvjaa.com/storage/radio-channels/rockonradio.png",
-"url": "https://24863.live.streamtheworld.com/ROCK_ON_RADIOAAC.aac",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "RadRadio",  
-"image": "https://www.tvjaa.com/storage/radio-channels/radradio.png",
-"url": "https://24863.live.streamtheworld.com/RAD_RADIO_FMAAC_128.aac",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "MUSICBOX MAXIMUM",  
-"image": "https://www.tvjaa.com/storage/radio-channels/musicbox.png",
-"url": "https://radio.tvjaa.com/maximummusicbox",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "FM ONE 103.5",  
-"image": "https://www.tvjaa.com/storage/radio-channels/fmone1035.png",
-"url": "https://radio.tvjaa.com/fmone1035",
 "playInNatPlayer": "TOT"
 },
 {
@@ -172,45 +70,9 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "วิทยุฯเพื่อเด็ก เยาวชน และครอบครัว",  
-"image": "https://www.tvjaa.com/storage/radio-channels/fm105.png",
-"url": "http://prdonline.prd.go.th:8210/;stream.mp3",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "Live Radio FM 88 MHz",  
-"image": "http://www.e4thai.com/e4e/images/photo3/Radio%20Online%20%20%20FM%2088%20MHz.png",
-"url": "http://prdonline.prd.go.th:8200/;stream.mp3",
-"playInNatPlayer": "TOT"
-},
-{
 "name": "Quality News Station สวท.FM 97 MHz",  
 "image": "https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png",
 "url": "https://radio.tvjaa.com/qualitynewsstation",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "IRC Radio",  
-"image": "https://www.tvjaa.com/storage/radio-channels/ircradio.png",
-"url": "https://radio.tvjaa.com/ircradio",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "MUN FM 93",  
-"image": "https://www.tvjaa.com/storage/radio-channels/munforward.png",
-"url": "https://radio.tvjaa.com/munfm",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "Sunshine Radio Pattaya 107.75MHz Good life good music",  
-"image": "https://www.tvjaa.com/storage/radio-channels/sunshine.png",
-"url": "https://radio.tvjaa.com/sunshine",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "Cat Radio แคท เรดิโอ",  
-"image": "https://www.tvjaa.com/storage/radio-channels/catradio.png",
-"url": "http://111.223.37.195/CatRadio/CatRadio-Webcam1/chunklist_w1280923328.m3u8",
 "playInNatPlayer": "TOT"
 },
 {
@@ -238,39 +100,9 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "Phuket Live Radio 89.5",  
-"image": "https://www.tvjaa.com/storage/radio-channels/895pattaya.png",
-"url": "https://radio.tvjaa.com/895pattaya",
-"playInNatPlayer": "TOT"
-},
-{
 "name": "FM 102 ขส.ทบ.",  
 "image": "https://www.tvjaa.com/storage/radio-channels/fm102.png",
 "url": "https://cdn-th2.login.in.th/shoutcast/1100",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "The Shock 101 FM",  
-"image": "https://www.img.in.th/images/33a31f4c7aeec730f4c584f0a434b9fb.png",
-"url": "https://media.login.in.th:8443/smilehost/8135",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "Huahin Radio Thailand",  
-"image": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ddqtw2szlcdc.png",
-"url": "https://inter1.plathong.net/7008/;",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "BigFM RadioSocial",  
-"image": "https://www.tvjaa.com/storage/radio-channels/bigfm.png",
-"url": "http://media.login.in.th:8195/;",
-"playInNatPlayer": "TOT"
-},
-{
-"name": " ฟังฟังฟัง เรดีโอ",  
-"image": "https://www.tvjaa.com/storage/radio-channels/fungfungfung.png",
-"url": "http://link2.onair.network:8006/;",
 "playInNatPlayer": "TOT"
 },
 {
@@ -280,27 +112,9 @@
 "playInNatPlayer": "TOT"
 },
 {
-"name": "พลอย เรดิโอ",  
-"image": "https://dbs.radioline.fr/pictures/radio_3c23ebc9dcf9a7b23ad3acbcbb74496a/logo200.jpg?size=600",
-"url": "https://radio14.plathong.net/7134/;",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "Metro Radio 90.5 KhonKaen",  
-"image": "https://www.tvjaa.com/storage/radio-channels/metro905fm.png",
-"url": "http://radio4.thzhost.com:4114/;",
-"playInNatPlayer": "TOT"
-},
-{
 "name": "ลูกทุ่งรักไทย",  
 "image": "https://www.tvjaa.com/storage/radio-channels/rukthailooktung.png",
 "url": "http://radio11.plathong.net:8896/;",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "ลูกทุ่งเน็ตเวิร์ก",  
-"image": "https://www.tvjaa.com/storage/radio-channels/looktungnetwork.png",
-"url": "https://media.login.in.th:8443/smilehost/8200",
 "playInNatPlayer": "TOT"
 },
 {
@@ -325,60 +139,6 @@
 "name": "94 FM Club ฟังเมื่อไหร่...ก็ใช่",  
 "image": "https://www.tvjaa.com/storage/radio-channels/94fmclubradio.png",
 "url": "http://www.94fmclub.net/content/m3u.html",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "93MassFM สงขลา",  
-"image": "https://www.img.in.th/images/e8f8ef644e67080d0f62ebbfe86b40ee.png",
-"url": "https://www.fungplern.com/93MassFM",
-"playInNatPlayer": "true"
-},
-{
-"name": "แฟนลูกทุ่ง FM 100 MHZ สงขลา",  
-"image": "https://www.img.in.th/images/aca01fb6f2e9128529a77e93b77e62f3.png",
-"url": "https://www.fungplern.com/fanlooktong",
-"playInNatPlayer": "true"
-},
-{
-"name": "GREAT 93",  
-"image": "https://www.tvjaa.com/storage/radio-channels/great93fm.png",
-"url": "https://radio.tvjaa.com/great93",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "MAZZ RADIO 97 ภูเก็ต",  
-"image": "https://www.img.in.th/images/29517da7ff39e38337248d93ae1d7f94.png",
-"url": "https://www.fungplern.com/Mazz-Radio-97",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "KISS FM 95.25 MHZ.จ.นครศรีธรรมราช",  
-"image": "https://www.img.in.th/images/c01f3b51534973a6338030b5c9a03d8f.png",
-"url": "https://www.fungplern.com/kiss-FM",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "ต้นกล้าเรดิโอFM101 จ.พัทลุง",  
-"image": "https://www.img.in.th/images/2e6d722e449bfc7ce76623b9c5f74b88.png",
-"url": "https://www.fungplern.com/tonkla-radio/popup/",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "FM94 สบายเรดิโอ เชียงใหม่",  
-"image": "https://www.img.in.th/images/12dddfc0a7569d180dec92ddd5a08af3.png",
-"url": "https://www.fungplern.com/Sabai-radio",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "บินหลาเรดิโอ99MHZ.จ.ตรัง",  
-"image": "https://www.img.in.th/images/99f8a80b9a88a88cbfa4cc73b40655be.png",
-"url": "https://www.fungplern.com/BINHLA--RADIO",
-"playInNatPlayer": "TOT"
-},
-{
-"name": "IRC Radio",  
-"image": "https://www.tvjaa.com/storage/radio-channels/ircradio.png",
-"url": "https://radio.tvjaa.com/ircradio",
 "playInNatPlayer": "TOT"
 },
 {
@@ -423,36 +183,6 @@
 "url": "https://radio.tvjaa.com/musichitzlife",
 "playInNatPlayer": "TOT"
 }, 
-{
-"name": "ONDIO เพลงไทยสากลเก่า",  
-"image": "https://www.tvjaa.com/storage/radio-channels/ondiothaiold.png",
-"url": "https://radio.tvjaa.com/ondiothaiold",
-"playInNatPlayer": "TOT"
-},  
-{
-"name": "Eingdoi Radio สถานีเพลงลูกกรุง",  
-"image": "https://admin.auto-messenger.ru/storage/radios/16272/31904/conversions/fECPLfWfKVWFxncndj7RYjBnnjgt18-metaRWluZ2RvaS1SYWRpby5qcGc=--lg.webp",
-"url": "https://radio.ohmi-design.com:8708/;",
-"playInNatPlayer": "TOT"
-},   
-{
-"name": "ล้านนาเรดิโอ",  
-"image": "https://admin.auto-messenger.ru/storage/radios/16274/31906/conversions/msJblDl5w1Qd0XptlN6dQ06klEAQCV-metaMW4ucG5n--lg.webp",
-"url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
-"playInNatPlayer": "TOT"
-}, 
-{
-"name": "Hatyai Radio",  
-"image": "https://admin.auto-messenger.ru/storage/radios/16748/33901/conversions/ykN4Qj31C30mS9GjjhPF9Cfp1Dbq4P-metaRk0gSGF0eWFpLmpwZw==--lg.webp",
-"url": "https://radio10.plathong.net/7590/;stream.mp3",
-"playInNatPlayer": "TOT"
-}, 
-{
-"name": "Ondio เพลงเก่า",  
-"image": "https://admin.auto-messenger.ru/storage/radios/16084/30381/conversions/OPeI55LOAeKsGnCaeRn3kG6JBS4wy7-metab25kaW5vIG9sZC5wbmc=--lg.webp",
-"url": "https://radio-thailand.com/ondino-old",
-"playInNatPlayer": "TOT"
-},
 
 ]
 }
